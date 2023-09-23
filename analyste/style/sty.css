@@ -1,0 +1,50 @@
+.body {
+    background-image: url("images/certificat.jpg");
+   background:cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-right: 0px;
+    background-attachment: fixed;
+}
+.pop{
+	height:419px;
+	width:419px;
+	position: fixed;
+	top:20%;
+	right:38%;
+	border:0px solid blue;
+	padding:10px;
+	background:url("bc1.png");
+	background-repeat: no-repeat;
+
+    border-radius:500px;
+}
+
+.close{
+		right:5;
+		top:5;
+		float:left;
+		background=red;
+	}
+.span{
+	 color:white;
+     text-shadow: 1px 1px #d68910;	 
+ 
+}
+.input[type=password]:focus {
+    border: 5px solid #555;
+    font: bold 80% "Lucida Sans Unicode",sans-serif;
+	
+}
+.img{
+	height:6%;
+	width:8%;
+	
+}
+.table{
+	border:1px;
+	
+}
+.button{
+	border:2px solid #d68910;
+}

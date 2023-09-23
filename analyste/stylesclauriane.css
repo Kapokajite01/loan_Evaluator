@@ -1,0 +1,23 @@
+body{
+	background-image:url(images/kivbg.div.cardHeader {);
+	font-family: 'Oleo Script', cursive;
+	background-repeat: no-repeat;
+	background-color:#ffffff;
+	
+}
+
+.lg-container{
+	width:900px;
+	height:800px;
+	margin:0px auto;
+	border:0px solid #ffffff;
+	background:rgba(255,255,255,.5);
+    
+	
+	-webkit-box-shadow: 0 0 0px #aaa;
+	-moz-box-shadow: 0 0 0px #aaa;
+	box-shadow: 0 0 0px #aaa;
+	
+	
+}
+}
